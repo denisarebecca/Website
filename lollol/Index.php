@@ -1,7 +1,7 @@
 <html>
 <Head> <title>COVID 19</title> </head>
         	<Body><body style=background-color:#6495ED>
-<Header><p align =CENTER><font size=70 face="Copperplate gothic bold" color=black><b><u>Covid-19</u></b></font>
+<Header><p align =CENTER><font size=70 face=Copperplate gothic bold color=black><b><u>Covid-19</u></b></font>
 
 <br><p align =center><img src=lol.jpg Width=820  Length=440>
 
