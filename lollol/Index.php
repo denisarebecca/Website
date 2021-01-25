@@ -3,12 +3,12 @@
         	<Body><body style="background-color:#6495ED;">
 <Header><p align = CENTER><font size="70" face="Copperplate gothic bold" color="black"><b><u>Covid-19</u></b></font>
 
-<br><p align = center><img src="lol.jpg" Width = "820"  Length = "440" >
+<br><p align = center><img src="lol.jpg" Width="820"  Length="440" >
 
-<br><p align = LEFT><Font size ="6"><Font color = BLACK><body style="background-color:#FCF8EC;">
+<br><p align=LEFT><Font size="6"><Font color=BLACK><body style="background-color:#FCF8EC;">
 What is Covid 19?</p>
 
-<p align = LEFT><Font size = 4><Font color = BLACK> <Font face = Castellar>
+<p align=LEFT><Font size=4><Font color=BLACK> <Font face=Castellar>
 Coronavirus disease (COVID-19),
 <br>is an infectious disease caused by a newly discovered coronavirus.
 <br>Most people who fall sick with COVID-19 will experience mild to moderate symptoms and  
@@ -23,5 +23,4 @@ It spreads in the same way as other coronaviruses do, mainly through person-to-p
 Infections range from mild to fatal.
 <br>
 
-</body>
 </html>
