@@ -1,11 +1,11 @@
 <html>
 <Head> <title>COVID 19</title> </head>
-        	<Body><body style="background-color:#6495ED;">
-<Header><p align = CENTER><font size="70" face="Copperplate gothic bold" color="black"><b><u>Covid-19</u></b></font>
+        	<Body><body style=background-color:#6495ED>
+<Header><p align =CENTER><font size=70 face="Copperplate gothic bold" color=black><b><u>Covid-19</u></b></font>
 
-<br><p align = center><img src="lol.jpg" Width=820  Length=440>
+<br><p align =center><img src=lol.jpg Width=820  Length=440>
 
-<br><p align=LEFT><Font size=6><Font color=BLACK><body style="background-color:#FCF8EC;">
+<br><p align=LEFT><Font size=6><Font color=BLACK><body style=background-color:#FCF8EC>
 What is Covid 19?
 
 <p align=LEFT><Font size=4><Font color=BLACK> <Font face=Castellar>
