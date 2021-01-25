@@ -6,7 +6,7 @@
 <br><p align = center><img src="lol.jpg" Width="820"  Length="440" >
 
 <br><p align=LEFT><Font size="6"><Font color=BLACK><body style="background-color:#FCF8EC;">
-What is Covid 19?</p>
+What is Covid 19?
 
 <p align=LEFT><Font size=4><Font color=BLACK> <Font face=Castellar>
 Coronavirus disease (COVID-19),
@@ -22,5 +22,4 @@ SARS-CoV-2disease that can cause what doctors call respiratory tract infection.
 It spreads in the same way as other coronaviruses do, mainly through person-to-person contact. 
 Infections range from mild to fatal.
 <br>
-
 </html>
